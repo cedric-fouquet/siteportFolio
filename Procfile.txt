@@ -1,2 +1,2 @@
 heroku ps:scale web=1
-web: gunicorn cfouquetPortfolio.main:app
+web gunicorn cfouquetPortfolio.main:app
