@@ -3,6 +3,6 @@ Flask==1.1.1
 -e git+https://github.com/pallets/flask@38eb5d3b49d628785a470e2e773fc5ac82e3c8e4#egg=flaskr&subdirectory=examples/tutorial
 gunicorn==20.0.4
 itsdangerous==1.1.0
-Jinja2==2.10.3
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 Werkzeug==0.16.0
